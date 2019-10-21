@@ -3,11 +3,15 @@ All flags are in the format of `bearCTF{flaghere}`
 
 ## Crypto Challenge
 
-### file : `cryptoChallenge.txt`
+### CRYPT1 - file : `cryptoChallenge.txt`
 1, 2, 3 skips to victory...
 
 here is your flag: fs{l_SaIkgn1 7Pie_sRC 3ibsPeTha13rnrCG_T}1F
 
+### CRYPT2
+This was created on a Windows x64 . Can you decrypt it?
+
+56 47 68 6c 49 45 5a 73 59 57 63 67 61 58 4d 36 49 47 4a 6c 59 58 4a 44 56 45 5a 37 63 7a 4e 44 64 56 49 78 64 48 6c 66 59 6c 6c 66 4d 47 5a 56 63 32 4e 68 56 44 45 77 54 6e 30 3d
 
 ## Steganography
 
