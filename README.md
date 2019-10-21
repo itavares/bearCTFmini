@@ -57,4 +57,4 @@ For these challenges, you need to connect to our little server. The file will be
 Can you tell me how many bytes it takes to crash the program?
 
 ### EX2 Directory: Exploitation/EX2 | file: `store`
-Can you cheat the program to get the flag?
+Can you buy the flag from the store?
