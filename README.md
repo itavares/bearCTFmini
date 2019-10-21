@@ -32,3 +32,6 @@ They are both insane.
 
 
 
+## Exploitation
+For this challenge, you need to connect to our little server. The file will be in there :
+### ` ssh bear@34.201.166.179 ` | password: bearCTF
