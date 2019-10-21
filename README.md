@@ -33,13 +33,14 @@ They are both insane.
 
 
 ## Forensics
+### Forensics1 - file : `whitepages.txt`
+I stopped using YellowPages and moved onto WhitePages... but the page they gave me is all blank!
+
+### Forensics2
 For this challenge, you need to connect to our little server. The file will be in there :
 ### ` ssh bear@34.201.166.179 ` | password: bearCTF
 ### Directory: Forensics | file: `haha.txt`
 Can you find the flag in file? This would be really tedious to look through manually, something tells me there is a better way.
-
-### Forensics2 - file : `whitepages.txt`
-I stopped using YellowPages and moved onto WhitePages... but the page they gave me is all blank!
 
 
 
