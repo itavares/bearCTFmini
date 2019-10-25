@@ -59,6 +59,9 @@ I was trying to send a secret message to my friend, but I may have confused myse
 ### STEG6 - file : `crossword.jpg`
 Left to right line by line and the password you shall find.
 
+### STEG7 - file : `arrow.jpg`
+`note` : flag is single string not in bearCTF{} format
+
 
 ## General
 
