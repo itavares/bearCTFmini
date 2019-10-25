@@ -56,6 +56,9 @@ I was trying to send a secret message to my friend, but I may have confused myse
 
 `note` : " / " are spaces. 
 
+### STEG6 - file : `crossword.jpg`
+Left to right line by line and the password you shall find.
+
 
 ## General
 
