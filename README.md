@@ -81,6 +81,11 @@ Can you find the flag in file? This would be really tedious to look through manu
 
 
 
+### Forensics3 - file : `forensics_shark.pcapng` 
+My message was broken in different parts. Can you put it together? 
+
+
+
 ## Exploitation
 For these challenges, you need to connect to our little server. The file will be in there :
 ### ` ssh bear@34.201.166.179 ` | password: bearCTF
