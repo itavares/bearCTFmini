@@ -28,6 +28,13 @@ Friday the 13th was a great movie series..
 
 H+84 H+87 H+83 H+94 H+65 H+76 H+68 H+9o H+6q H+83 H+6r H+71 H+7s H+76 H+91 H+92 H+55 H+95 H+7s H+52 H+88 H+7s H+74 H+6s H+76 H+9q
 
+### CRYPT6 - flag will be a single string not in the `bearCTF{}` format
+Can you use this to decrypt the following message ARVBDRSHQ
+
+Hint: Plain- LUKEISREYSFATHER Cipher- KXJHLRQHXREDSGHQ
+
+
+
 ## Steganography
 
 ### STEG1 - file: `justanormalpicture.png`
