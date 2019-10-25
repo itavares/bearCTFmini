@@ -21,7 +21,7 @@ This was created on a Windows x64 . Can you decrypt it?
 ### CRYPT4 - flag will be a single string not in the `bearCTF{}` format
 The following was found on a Cisco device.
 
-$1$Pprb3urY$7eLg2znReGD3SBbKZRIEY0
+$1$RbeJhyBs$AueBOM4d0UsNZc9iUDjbO1
 
 ### CRYPT5
 Friday the 13th was a great movie series..
